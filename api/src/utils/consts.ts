@@ -1,0 +1,9 @@
+const EARTH_RADIUS = 6371
+const DEGREES = 360
+const HALF_DEGREES = 360
+
+export {
+  EARTH_RADIUS,
+  DEGREES,
+  HALF_DEGREES
+}
